@@ -6,7 +6,7 @@ Get SVG image from URL.
 
 ```html
 <img
-  src="https://[service_domain]/api/lu/LuHeartHandshake?color=salmon&size=100"
+  src="https://react-icons-http-provider.vercel.app/api/api/lu/LuHeartHandshake?color=salmon&size=100"
 />
 ```
 

@@ -104,6 +104,14 @@ export default function Home({ host }: Props) {
             @rolangom
           </a>
         </div>
+        <a
+          className={styles.colored}
+          href="https://github.com/rolangom/react-icons-http-provider"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Github Repo
+        </a>
       </main>
     </>
   );
